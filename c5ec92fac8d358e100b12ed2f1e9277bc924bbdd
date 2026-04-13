@@ -1,0 +1,23 @@
+src/cmds/git/git.rs
+  ff8ba946b298ceb5 964-965,967-969,971-973
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "c5ec92fac8d358e100b12ed2f1e9277bc924bbdd",
+  "prompts": {
+    "ff8ba946b298ceb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e219f7d2-ccef-45db-b506-4d953820965c",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun)",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 3,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
